@@ -25,7 +25,6 @@ git clone https://github.com/AmbEAE/Simple-Discord-Slash-Cmds.git
 > Ne montrez pas votre token à personne !
 
 ```bash
-```js
 TOKEN="" //Token du bot
 GUILD_ID="" //ID de la guild pour les /cmds
 CLIENT_ID="" //ID du bot
