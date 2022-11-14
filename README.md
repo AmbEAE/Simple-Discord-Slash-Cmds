@@ -8,10 +8,10 @@ Simple bot pour un bot discord avec des `/slash commandes`
 Installation du projet
 
 > **Warning**
-> Si le code viens de [GitHub]()
+> Si le code viens de [GitHub](https://github.com/AmbEAE/Simple-Discord-Slash-Cmds)
 
 ```bash
-git clone <>
+git clone https://github.com/AmbEAE/Simple-Discord-Slash-Cmds.git
 ```
 **Sinon:**
 ```bash

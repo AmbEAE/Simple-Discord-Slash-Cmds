@@ -7,10 +7,22 @@
   "name": "Simple Bot Example",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "scripts": {
+        "start": "node index.js"
+    },
   "author": "Ambre👑 #0001 (420677579645779978)",
   "license": "ISC",
-  "description": "Simple bot pour un bot discord avec des slash commands"
+  "description": "Simple bot pour un bot discord avec des slash commands",
+    "keywords": [
+        "discord",
+        "bot",
+        "slash",
+        "commands"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/AmbEAE/Simple-Discord-Slash-Cmds.git",
+      "directory": "Simple Bot Example",
+      "branch": "master"
+    }
 }
